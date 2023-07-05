@@ -11,7 +11,7 @@
 ## Overview
 1. [Live demo](https://calculator.pelaghisoftware.com)
     - To use:
-        - git clone https://github.com/pelaghisoftware/<need rest>
+        - git clone https://github.com/pelaghisoftware/calculator.git
         - cd calculator
         - docker build . -t calculator
         - docker run -d -p 8081:8081 --restart always calculator
